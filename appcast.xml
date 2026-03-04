@@ -3,6 +3,14 @@
     <channel>
         <title>BUSOIO</title>
         <item>
+            <title>1.04.1</title>
+            <pubDate>Wed, 04 Mar 2026 18:00:00 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.04.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Buso-Audio/BUSOIO-Release/releases/download/v1.04.1/BUSOIO_CORE.dmg" length="2972292" type="application/octet-stream" sparkle:edSignature="HAwTRbcREuJED9Nr+8xGGqqIc3yCjEkwqe6/SV4anDdwPaSsNoxTnb354EQsyx4dJCUpFrLNlU3WmLQLpfzxAA=="/>
+        </item>
+        <item>
             <title>1.04</title>
             <pubDate>Tue, 04 Mar 2026 12:00:00 +0000</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -25,14 +33,6 @@
             <sparkle:shortVersionString>1.03</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Buso-Audio/BUSOIO-Release/releases/download/v1.03/BUSOIO_CORE.dmg" length="2921738" type="application/octet-stream" sparkle:edSignature="uf8//5MTfbK49gQZbtY435U80Zg5tWtZXfGrjnbcmuhbF7ik6pJqPSKFKXSRQsAEvwl0o6YsX2Hn3MCKzUDyAA=="/>
-        </item>
-        <item>
-            <title>1.02</title>
-            <pubDate>Sat, 28 Feb 2026 14:27:20 +0000</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.02</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Buso-Audio/BUSOIO-Release/releases/download/v1.02/BUSOIO_CORE.dmg" length="2921227" type="application/octet-stream" sparkle:edSignature="eZgH5Pqjis65550U4s16AXv1RGZQYjVPL4zme+zGdUIE+aZm+h6gmBZ2+PT3elr2XY+FbnSxCpZprey9h0J2Ag=="/>
         </item>
     </channel>
 </rss>
