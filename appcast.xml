@@ -3,6 +3,14 @@
     <channel>
         <title>BUSOIO</title>
         <item>
+            <title>2.0.0</title>
+            <pubDate>Tue, 21 Apr 2026 12:58:02 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Buso-Audio/BUSOIO-Release/releases/download/v2.0.0/BUSOIO_CORE.dmg" length="3055944" type="application/octet-stream" sparkle:edSignature="RKsU4fk3u3uhuj5Tsj39FvdfmnizsQvRjAXB8zX7J7L6mBkPEu8K2iBnq88iinEblOKxFOAEm6lHch/Zo1TsBQ=="/>
+        </item>
+        <item>
             <title>1.04.2</title>
             <pubDate>Wed, 04 Mar 2026 20:00:00 +0000</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -17,22 +25,6 @@
             <sparkle:shortVersionString>1.04.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Buso-Audio/BUSOIO-Release/releases/download/v1.04.1/BUSOIO_CORE.dmg" length="2972292" type="application/octet-stream" sparkle:edSignature="HAwTRbcREuJED9Nr+8xGGqqIc3yCjEkwqe6/SV4anDdwPaSsNoxTnb354EQsyx4dJCUpFrLNlU3WmLQLpfzxAA=="/>
-        </item>
-        <item>
-            <title>1.04</title>
-            <pubDate>Tue, 04 Mar 2026 12:00:00 +0000</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.04</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h3>What's New in v1.04</h3>
-                <ul>
-                    <li><b>Diagnostic Reports</b> — Send anonymous system &amp; display info to help us troubleshoot issues faster.</li>
-                    <li><b>Graphic App Profile</b> — Added touch profile for Graphic (formerly iDraw) with pinch-to-zoom support.</li>
-                    <li><b>Magnifier Improvements</b> — Better performance and stability for the on-screen magnifier.</li>
-                </ul>
-            ]]></description>
-            <enclosure url="https://github.com/Buso-Audio/BUSOIO-Release/releases/download/v1.04/BUSOIO_CORE.dmg" length="2971902" type="application/octet-stream" sparkle:edSignature="mIvov5iwtGNwqrg7uOoPnwygUEe6gF2R0lSfhyziUnpwJSOl+/sxAFhTTk2Z4KT7100wJw0vSv0DojamcayqDQ=="/>
         </item>
     </channel>
 </rss>
