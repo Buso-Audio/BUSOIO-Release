@@ -3,12 +3,12 @@
     <channel>
         <title>BUSOIO</title>
         <item>
-            <title>2.2.0</title>
-            <pubDate>Tue, 15 Sep 2026 14:09:54 +0100</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
+            <title>2.3.0</title>
+            <pubDate>Tue, 15 Sep 2026 14:18:06 +0100</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Buso-Audio/BUSOIO-Release/releases/download/v2.2.0/BUSOIO_CORE.dmg" length="3216586" type="application/octet-stream" sparkle:edSignature="95PjBwR3YOa4tEnOaCl2UwyiG1GqrmFstRzCLp3CwfBfy/wSX+QnPVSkQV46gD6sMdR6wgC5ST7b8ZbsRdYcCQ=="/>
+            <enclosure url="https://github.com/Buso-Audio/BUSOIO-Release/releases/download/v2.3.0/BUSOIO_CORE.dmg" length="3216975" type="application/octet-stream" sparkle:edSignature="G23XXyY27UNPXjo9gBolxPLd8CXVUPQsX09As7D5qNaqXjq84vMbggPe7nE4pYtZkFNYMkA7A8UI+FEybOQVAg=="/>
         </item>
         <item>
             <title>2.1.2</title>
