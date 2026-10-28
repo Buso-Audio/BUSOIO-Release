@@ -1,7 +1,7 @@
 {
   "schema": 5,
   "generated": "2026-10-28",
-  "driverVersion": "2.3.3",
+  "driverVersion": null,
   "tiers": [
     {
       "id": "advanced",
@@ -128,18 +128,6 @@
       "bundleIds": [
         "com.steinberg.cubase",
         "de.steinberg.cubase"
-      ]
-    },
-    {
-      "key": "dLiveDirector",
-      "name": "dLive Director",
-      "vendor": "Allen & Heath",
-      "category": "mixer",
-      "tier": "basic",
-      "note": null,
-      "bundleIds": [
-        "com.allen-heath.dLive.Director",
-        "com.allen-heath.dlive"
       ]
     },
     {
