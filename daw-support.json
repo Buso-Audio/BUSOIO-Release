@@ -1,0 +1,365 @@
+{
+  "schema": 5,
+  "generated": "2026-10-28",
+  "driverVersion": "2.3.3",
+  "tiers": [
+    {
+      "id": "advanced",
+      "label": "Advanced",
+      "summary": "Direct parameter control",
+      "description": "Everything in Enhanced, plus hands-on control of the mix.",
+      "features": [
+        {
+          "title": "Direct parameter control",
+          "detail": "Controls are adjusted at their source rather than by steering a mouse pointer around the screen, so each finger works on its own parameter at the same time."
+        },
+        {
+          "title": "Multi-touch faders",
+          "detail": "Ride several channel faders together, one finger each, the way you would on a physical console."
+        },
+        {
+          "title": "Multi-touch encoders and pans",
+          "detail": "Adjust more than one knob, pan or send at once instead of reaching for them one after another."
+        },
+        {
+          "title": "Multi-touch buttons",
+          "detail": "Mute, solo or bypass several channels together with a single movement of the hand."
+        }
+      ]
+    },
+    {
+      "id": "enhanced",
+      "label": "Enhanced",
+      "summary": "Gestures tuned to the app",
+      "description": "Everything in Basic, plus gestures the driver has been taught for this particular application.",
+      "features": [
+        {
+          "title": "Zoom that knows the application",
+          "detail": "Pinching drives the application's own zoom rather than a generic shortcut, so it zooms the arrangement instead of the interface."
+        },
+        {
+          "title": "Separate horizontal and vertical zoom",
+          "detail": "Pinch sideways to stretch the timeline and vertically to change track height, where the application offers both."
+        },
+        {
+          "title": "Multi-touch buttons",
+          "detail": "Where the application exposes them, buttons such as mute and solo respond to more than one finger at a time."
+        }
+      ]
+    },
+    {
+      "id": "basic",
+      "label": "Basic",
+      "summary": "Precision touch",
+      "universal": true,
+      "description": "Applies to every application on your Mac, whether or not it is listed here. The application responds to touch exactly as it would to a precision mouse.",
+      "features": [
+        {
+          "title": "Tap to click",
+          "detail": "A tap clicks precisely where your finger lands, with no offset to correct for."
+        },
+        {
+          "title": "Touch and drag",
+          "detail": "Press and move to drag faders, regions, clips or anything else you would drag with a mouse."
+        },
+        {
+          "title": "Double tap",
+          "detail": "Opens, renames or resets, following whatever the application already does on a double click."
+        },
+        {
+          "title": "Hold to right-click",
+          "detail": "Rest a finger for a moment to open the context menu, without reaching for a mouse or keyboard."
+        },
+        {
+          "title": "Two-finger scroll",
+          "detail": "Scroll through a mixer, a track list or a long arrangement with two fingers."
+        },
+        {
+          "title": "Pinch to zoom",
+          "detail": "Pinching zooms in any application that follows the standard macOS zoom shortcut."
+        }
+      ]
+    }
+  ],
+  "daws": [
+    {
+      "key": "AbletonLive",
+      "name": "Ableton Live",
+      "vendor": "Ableton",
+      "category": "daw",
+      "tier": "advanced",
+      "note": null,
+      "bundleIds": [
+        "com.ableton.live"
+      ]
+    },
+    {
+      "key": "AkaiMPC",
+      "name": "Akai MPC",
+      "vendor": "Akai Professional",
+      "category": "daw",
+      "tier": "enhanced",
+      "note": null,
+      "bundleIds": [
+        "com.akaipro.mpc3",
+        "com.akaipro.MPC",
+        "com.akaipro.MPCSoftware",
+        "com.inmusicbrands.MPC"
+      ]
+    },
+    {
+      "key": "Bitwig",
+      "name": "Bitwig Studio",
+      "vendor": "Bitwig",
+      "category": "daw",
+      "tier": "enhanced",
+      "note": null,
+      "bundleIds": [
+        "com.bitwig.studio"
+      ]
+    },
+    {
+      "key": "Cubase",
+      "name": "Cubase",
+      "vendor": "Steinberg",
+      "category": "daw",
+      "tier": "advanced",
+      "note": null,
+      "bundleIds": [
+        "com.steinberg.cubase",
+        "de.steinberg.cubase"
+      ]
+    },
+    {
+      "key": "dLiveDirector",
+      "name": "dLive Director",
+      "vendor": "Allen & Heath",
+      "category": "mixer",
+      "tier": "basic",
+      "note": null,
+      "bundleIds": [
+        "com.allen-heath.dLive.Director",
+        "com.allen-heath.dlive"
+      ]
+    },
+    {
+      "key": "FenderStudioPro",
+      "name": "Fender Studio Pro",
+      "vendor": "Fender",
+      "category": "daw",
+      "tier": "advanced",
+      "note": null,
+      "bundleIds": [
+        "com.fender.studioapp"
+      ]
+    },
+    {
+      "key": "FLStudio",
+      "name": "FL Studio",
+      "vendor": "Image-Line",
+      "category": "daw",
+      "tier": "advanced",
+      "note": null,
+      "bundleIds": [
+        "com.image-line.flstudio"
+      ]
+    },
+    {
+      "key": "GarageBand",
+      "name": "GarageBand",
+      "vendor": "Apple",
+      "category": "daw",
+      "tier": "enhanced",
+      "note": null,
+      "bundleIds": [
+        "com.apple.garageband10"
+      ]
+    },
+    {
+      "key": "Chrome",
+      "name": "Google Chrome",
+      "vendor": "Google",
+      "category": "other",
+      "tier": "enhanced",
+      "note": null,
+      "bundleIds": [
+        "com.google.Chrome",
+        "com.google.Chrome.canary",
+        "com.google.Chrome.beta"
+      ]
+    },
+    {
+      "key": "LogicPro",
+      "name": "Logic Pro",
+      "vendor": "Apple",
+      "category": "daw",
+      "tier": "advanced",
+      "note": null,
+      "bundleIds": [
+        "com.apple.logic10",
+        "com.apple.logicpro"
+      ]
+    },
+    {
+      "key": "Luna",
+      "name": "Luna",
+      "vendor": "Universal Audio",
+      "category": "daw",
+      "tier": "advanced",
+      "note": null,
+      "bundleIds": [
+        "com.uaudio.luna"
+      ]
+    },
+    {
+      "key": "Metagrid",
+      "name": "Metagrid",
+      "vendor": "Metasystem",
+      "category": "controller",
+      "tier": "advanced",
+      "note": null,
+      "bundleIds": [
+        "com.metasystem.MetaGrid",
+        "com.metasystem.metagrid"
+      ]
+    },
+    {
+      "key": "Mixbus",
+      "name": "Mixbus",
+      "vendor": "Harrison",
+      "category": "daw",
+      "tier": "enhanced",
+      "note": null,
+      "bundleIds": [
+        "com.harrisonconsoles.mixbus",
+        "com.harrisonconsoles.mixbus32c",
+        "com.harrisonconsoles.Mixbus",
+        "com.harrisonconsoles.Mixbus32C",
+        "com.harrisonconsoles.mixbus11",
+        "com.harrisonconsoles.Mixbus11"
+      ]
+    },
+    {
+      "key": "MixingStation",
+      "name": "Mixing Station",
+      "vendor": "DEV-Core",
+      "category": "mixer",
+      "tier": "advanced",
+      "note": null,
+      "bundleIds": [
+        "org.devcore.mixingstation.pc",
+        "org.devcore.mixingstation"
+      ]
+    },
+    {
+      "key": "Nuendo",
+      "name": "Nuendo",
+      "vendor": "Steinberg",
+      "category": "daw",
+      "tier": "advanced",
+      "note": null,
+      "bundleIds": [
+        "com.steinberg.nuendo",
+        "de.steinberg.nuendo"
+      ]
+    },
+    {
+      "key": "OBS",
+      "name": "OBS Studio",
+      "vendor": "OBS Project",
+      "category": "mixer",
+      "tier": "enhanced",
+      "note": null,
+      "bundleIds": [
+        "com.obsproject.obs-studio"
+      ]
+    },
+    {
+      "key": "ProTools",
+      "name": "Pro Tools",
+      "vendor": "Avid",
+      "category": "daw",
+      "tier": "advanced",
+      "note": null,
+      "bundleIds": [
+        "com.avid.ProTools"
+      ]
+    },
+    {
+      "key": "Reaper",
+      "name": "Reaper",
+      "vendor": "Cockos",
+      "category": "daw",
+      "tier": "advanced",
+      "note": "Multi-fader control needs “Ignore mousewheel on all faders” turned off in REAPER Settings › Editing Behavior › Mouse. BUSOIO warns if it is on.",
+      "bundleIds": [
+        "com.cockos.reaper"
+      ]
+    },
+    {
+      "key": "Reason",
+      "name": "Reason",
+      "vendor": "Reason Studios",
+      "category": "daw",
+      "tier": "enhanced",
+      "note": null,
+      "bundleIds": [
+        "se.propellerheads.reason",
+        "se.propellerheads.reason-essentials",
+        "se.propellerheads.reason.demo",
+        "com.reasonstudios.reason"
+      ]
+    },
+    {
+      "key": "ReCycle",
+      "name": "ReCycle",
+      "vendor": "Reason Studios",
+      "category": "daw",
+      "tier": "enhanced",
+      "note": null,
+      "bundleIds": [
+        "se.propellerheads.recycle",
+        "se.propellerheads.recycle2"
+      ]
+    },
+    {
+      "key": "Safari",
+      "name": "Safari",
+      "vendor": "Apple",
+      "category": "other",
+      "tier": "enhanced",
+      "note": null,
+      "bundleIds": [
+        "com.apple.Safari",
+        "com.apple.SafariTechnologyPreview"
+      ]
+    },
+    {
+      "key": "SSL360",
+      "name": "SSL 360",
+      "vendor": "Solid State Logic",
+      "category": "mixer",
+      "tier": "advanced",
+      "note": null,
+      "bundleIds": [
+        "com.solidstatelogic.ssl360"
+      ]
+    },
+    {
+      "key": "StudioOne",
+      "name": "Studio One",
+      "vendor": "PreSonus",
+      "category": "daw",
+      "tier": "enhanced",
+      "note": null,
+      "bundleIds": [
+        "com.presonus.studioone",
+        "com.presonus.studioone7",
+        "com.presonus.studioone6",
+        "com.presonus.studioone5",
+        "com.presonus.StudioOne",
+        "com.presonus.StudioOne7"
+      ]
+    }
+  ]
+}
