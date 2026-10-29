@@ -1,6 +1,6 @@
 {
-  "schema": 5,
-  "generated": "2026-10-28",
+  "schema": 6,
+  "generated": "2026-10-29",
   "driverVersion": null,
   "tiers": [
     {
@@ -89,6 +89,32 @@
       "category": "daw",
       "tier": "advanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Multi-fader control",
+          "detail": "Ride several channel faders together, one finger each, the way you would on a console. Up to ten at once."
+        },
+        {
+          "title": "Multi-parameter control",
+          "detail": "Knobs, pans, sends and plugin parameters each follow their own finger, so you can turn several at once."
+        },
+        {
+          "title": "Faders and plugins together",
+          "detail": "Keep a fader moving with one hand while you adjust a plugin or a send with the other."
+        },
+        {
+          "title": "Multi-touch buttons",
+          "detail": "Mute, solo, arm or bypass several channels at the same moment, one finger each."
+        },
+        {
+          "title": "Pinch to zoom, both directions",
+          "detail": "Pinch sideways to zoom the timeline, and up and down for vertical zoom, using the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.ableton.live"
       ]
@@ -100,6 +126,16 @@
       "category": "daw",
       "tier": "enhanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Pinch to zoom, both directions",
+          "detail": "Pinch sideways to zoom the timeline, and up and down for vertical zoom, using the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.akaipro.mpc3",
         "com.akaipro.MPC",
@@ -114,6 +150,20 @@
       "category": "daw",
       "tier": "enhanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Faders that stay under your finger",
+          "detail": "Single-finger fader moves are tuned for this application, so the control follows your finger without jumping or drifting."
+        },
+        {
+          "title": "Pinch to zoom the timeline",
+          "detail": "Pinch sideways to zoom the arrangement, using the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.bitwig.studio"
       ]
@@ -125,6 +175,24 @@
       "category": "daw",
       "tier": "advanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Multi-fader control",
+          "detail": "Ride several channel faders together, one finger each, the way you would on a console. Up to ten at once."
+        },
+        {
+          "title": "Faders that stay under your finger",
+          "detail": "Single-finger fader moves are tuned for this application, so the control follows your finger without jumping or drifting."
+        },
+        {
+          "title": "Pinch to zoom, both directions",
+          "detail": "Pinch sideways to zoom the timeline, and up and down for vertical zoom, using the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.steinberg.cubase",
         "de.steinberg.cubase"
@@ -137,6 +205,20 @@
       "category": "daw",
       "tier": "advanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Multi-fader control",
+          "detail": "Ride several channel faders together, one finger each, the way you would on a console. Up to ten at once."
+        },
+        {
+          "title": "Pinch to zoom, both directions",
+          "detail": "Pinch sideways to zoom the timeline, and up and down for vertical zoom, using the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.fender.studioapp"
       ]
@@ -148,6 +230,16 @@
       "category": "daw",
       "tier": "advanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Multi-fader control",
+          "detail": "Ride several channel faders together, one finger each, the way you would on a console. Up to ten at once."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.image-line.flstudio"
       ]
@@ -159,6 +251,16 @@
       "category": "daw",
       "tier": "enhanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Pinch to zoom, both directions",
+          "detail": "Pinch sideways to zoom the timeline, and up and down for vertical zoom, using the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.apple.garageband10"
       ]
@@ -170,6 +272,16 @@
       "category": "other",
       "tier": "enhanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Pinch to zoom",
+          "detail": "Pinching drives the page zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.google.Chrome",
         "com.google.Chrome.canary",
@@ -183,6 +295,36 @@
       "category": "daw",
       "tier": "advanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Multi-fader control",
+          "detail": "Ride several channel faders together, one finger each, the way you would on a console. Up to ten at once."
+        },
+        {
+          "title": "Multi-parameter control",
+          "detail": "Knobs, pans, sends and plugin parameters each follow their own finger, so you can turn several at once."
+        },
+        {
+          "title": "Faders and plugins together",
+          "detail": "Keep a fader moving with one hand while you adjust a plugin or a send with the other."
+        },
+        {
+          "title": "Multi-touch buttons",
+          "detail": "Mute, solo, arm or bypass several channels at the same moment, one finger each."
+        },
+        {
+          "title": "Faders that stay under your finger",
+          "detail": "Single-finger fader moves are tuned for this application, so the control follows your finger without jumping or drifting."
+        },
+        {
+          "title": "Pinch to zoom, both directions",
+          "detail": "Pinch sideways to zoom the timeline, and up and down for vertical zoom, using the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.apple.logic10",
         "com.apple.logicpro"
@@ -195,6 +337,32 @@
       "category": "daw",
       "tier": "advanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Multi-fader control",
+          "detail": "Ride several channel faders together, one finger each, the way you would on a console. Up to ten at once."
+        },
+        {
+          "title": "Multi-parameter control",
+          "detail": "Knobs, pans, sends and plugin parameters each follow their own finger, so you can turn several at once."
+        },
+        {
+          "title": "Faders and plugins together",
+          "detail": "Keep a fader moving with one hand while you adjust a plugin or a send with the other."
+        },
+        {
+          "title": "Multi-touch buttons",
+          "detail": "Mute, solo, arm or bypass several channels at the same moment, one finger each."
+        },
+        {
+          "title": "Pinch to zoom, both directions",
+          "detail": "Pinch sideways to zoom the timeline, and up and down for vertical zoom, using the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.uaudio.luna"
       ]
@@ -206,6 +374,20 @@
       "category": "controller",
       "tier": "advanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Multi-fader control",
+          "detail": "Ride several channel faders together, one finger each, the way you would on a console. Up to ten at once."
+        },
+        {
+          "title": "Faders that stay under your finger",
+          "detail": "Single-finger fader moves are tuned for this application, so the control follows your finger without jumping or drifting."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.metasystem.MetaGrid",
         "com.metasystem.metagrid"
@@ -218,6 +400,16 @@
       "category": "daw",
       "tier": "enhanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Pinch to zoom, both directions",
+          "detail": "Pinch sideways to zoom the timeline, and up and down for vertical zoom, using the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.harrisonconsoles.mixbus",
         "com.harrisonconsoles.mixbus32c",
@@ -234,6 +426,16 @@
       "category": "mixer",
       "tier": "advanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Multi-fader control",
+          "detail": "Ride several channel faders together, one finger each, the way you would on a console. Up to ten at once."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "org.devcore.mixingstation.pc",
         "org.devcore.mixingstation"
@@ -246,6 +448,24 @@
       "category": "daw",
       "tier": "advanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Multi-fader control",
+          "detail": "Ride several channel faders together, one finger each, the way you would on a console. Up to ten at once."
+        },
+        {
+          "title": "Faders that stay under your finger",
+          "detail": "Single-finger fader moves are tuned for this application, so the control follows your finger without jumping or drifting."
+        },
+        {
+          "title": "Pinch to zoom, both directions",
+          "detail": "Pinch sideways to zoom the timeline, and up and down for vertical zoom, using the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.steinberg.nuendo",
         "de.steinberg.nuendo"
@@ -258,6 +478,20 @@
       "category": "mixer",
       "tier": "enhanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Faders that stay under your finger",
+          "detail": "Single-finger fader moves are tuned for this application, so the control follows your finger without jumping or drifting."
+        },
+        {
+          "title": "Pinch to zoom",
+          "detail": "Pinching drives the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.obsproject.obs-studio"
       ]
@@ -269,6 +503,36 @@
       "category": "daw",
       "tier": "advanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Multi-fader control",
+          "detail": "Ride several channel faders together, one finger each, the way you would on a console. Up to ten at once."
+        },
+        {
+          "title": "Multi-parameter control",
+          "detail": "Knobs, pans, sends and plugin parameters each follow their own finger, so you can turn several at once."
+        },
+        {
+          "title": "Faders and plugins together",
+          "detail": "Keep a fader moving with one hand while you adjust a plugin or a send with the other."
+        },
+        {
+          "title": "Multi-touch buttons",
+          "detail": "Mute, solo, arm or bypass several channels at the same moment, one finger each."
+        },
+        {
+          "title": "Faders that stay under your finger",
+          "detail": "Single-finger fader moves are tuned for this application, so the control follows your finger without jumping or drifting."
+        },
+        {
+          "title": "Pinch to zoom, both directions",
+          "detail": "Pinch sideways to zoom the timeline, and up and down for vertical zoom, using the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.avid.ProTools"
       ]
@@ -280,6 +544,20 @@
       "category": "daw",
       "tier": "advanced",
       "note": "Multi-fader control needs “Ignore mousewheel on all faders” turned off in REAPER Settings › Editing Behavior › Mouse. BUSOIO warns if it is on.",
+      "controls": [
+        {
+          "title": "Multi-fader control",
+          "detail": "Ride several channel faders together, one finger each, the way you would on a console. Up to eight at once."
+        },
+        {
+          "title": "Pinch to zoom, both directions",
+          "detail": "Pinch sideways to zoom the timeline, and up and down for vertical zoom, using the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.cockos.reaper"
       ]
@@ -291,6 +569,16 @@
       "category": "daw",
       "tier": "enhanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Pinch to zoom, both directions",
+          "detail": "Pinch sideways to zoom the timeline, and up and down for vertical zoom, using the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "se.propellerheads.reason",
         "se.propellerheads.reason-essentials",
@@ -305,6 +593,16 @@
       "category": "daw",
       "tier": "enhanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Pinch to zoom",
+          "detail": "Pinching drives the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "se.propellerheads.recycle",
         "se.propellerheads.recycle2"
@@ -317,6 +615,16 @@
       "category": "other",
       "tier": "enhanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Pinch to zoom",
+          "detail": "Pinching drives the page zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.apple.Safari",
         "com.apple.SafariTechnologyPreview"
@@ -329,6 +637,16 @@
       "category": "mixer",
       "tier": "advanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Multi-fader control",
+          "detail": "Ride several channel faders together, one finger each, the way you would on a console. Up to ten at once."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.solidstatelogic.ssl360"
       ]
@@ -340,6 +658,16 @@
       "category": "daw",
       "tier": "enhanced",
       "note": null,
+      "controls": [
+        {
+          "title": "Pinch to zoom, both directions",
+          "detail": "Pinch sideways to zoom the timeline, and up and down for vertical zoom, using the application's own zoom."
+        },
+        {
+          "title": "Everyday touch",
+          "detail": "Tap to click, drag, double tap, hold to right-click and two-finger scroll."
+        }
+      ],
       "bundleIds": [
         "com.presonus.studioone",
         "com.presonus.studioone7",
